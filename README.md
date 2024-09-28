@@ -1,2 +1,2 @@
 # stockdata1
-Extracting and Visualizing Stock Data
+Extracting and Visualizing Stock Data.
